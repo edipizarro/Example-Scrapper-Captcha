@@ -7,4 +7,4 @@ Run on NodeJS (Tested on version 10):
 
 # What does this script do
 Tries to bypass reCaptcha and scrap data from an URL.
-It does not work when the script is executed too many times (need to randomize userAgent and ViewPort data)
+It does not work when the script is executed too many times (I think that if userAgent and ViewPort data are randomly generated it may work better)
