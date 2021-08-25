@@ -3,7 +3,7 @@
 
 # Usage
 Run on NodeJS (Tested on version 10):
-``` node solution.js ```
+``` node scrapper-solution.js ```
 
 # What does this script do
 Tries to bypass reCaptcha and scrap data from an URL.
